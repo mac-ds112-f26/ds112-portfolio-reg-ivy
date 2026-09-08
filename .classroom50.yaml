@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ds112"
+assignment: "portfolio"
+owner:
+  username: "reg-ivy"
+  id: 326678504
+  accepted_at: "2026-09-08T21:38:50Z"
+source:
+  owner: "mac-ds112-f26"
+  owner_id: 323651608
+  repo: "portfolio-template"
+  branch: "main"
